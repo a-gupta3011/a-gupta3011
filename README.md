@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Aryan Gupta<br><br>🎓 Student & Tech Enthusiast<br>Passionate about building intelligent systems and solving real-world problems with code.<br><br>🚀 About Me<br><br>💻 Interested in software development, Machine Learning and emerging technologies<br><br>🧠 Strong foundation in problem-solving and logical thinking<br><br>📈 Focused on writing clean, efficient, and scalable code<br><br>🤝 Enjoy collaborating on meaningful projects
+Hi, I'm Aryan Gupta<br><br>🎓 Student & Tech Enthusiast<br>Passionate about building intelligent systems and solving real-world problems with code.<br><br>💻 Interested in software development, Machine Learning and emerging technologies<br><br>🧠 Strong foundation in problem-solving and logical thinking<br><br>📈 Focused on writing clean, efficient, and scalable code<br><br>🤝 Enjoy collaborating on meaningful projects
 
 
 ## 🌐 Socials:
