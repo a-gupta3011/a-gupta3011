@@ -16,4 +16,6 @@ Hi, I'm Aryan Gupta<br><br>🎓 Student & Tech Enthusiast<br>Passionate about bu
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=a-gupta3011&limit=5&theme=default&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=a-gupta3011&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
